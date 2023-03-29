@@ -1,3 +1,3 @@
 def howLong(w):
     print (len(w))
-howLong("jelly")
+howLong("cow")
