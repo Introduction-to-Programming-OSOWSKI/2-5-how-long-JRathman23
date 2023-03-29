@@ -1,3 +1,4 @@
 def howLong(w):
-    print (len(w))
+    return(len(w))
+    
 howLong("cow")
